@@ -7,8 +7,8 @@ def using_unshift(array, string)
 end 
 
 def using_pop(array)
-  Antarctica_place = array.pop
-  p Antarctica_place
+  antarctica = array.pop
+  p antarctica
 end 
 
 def pop_with_args(array)
