@@ -16,4 +16,6 @@ def pop_with_args(array)
 end
 
 def using_shift(array)
-   = array.shift
+   ocean = array.shift
+   p ocean
+ end 
